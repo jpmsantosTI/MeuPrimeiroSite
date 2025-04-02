@@ -5,12 +5,12 @@ https://github.io/jpmsantosTI/MeuPrimeiroSite/
 
 
 ## CSS
-https://github.com/jpmsantosTI/MeuPrimeiroSite/blob/main/Index.html
+https://jpmsantosti.github.io/MeuPrimeiroSite/Index.html
 
 ## CSS INTERNO
-https://github.com/jpmsantosTI/MeuPrimeiroSite/blob/main/Indexinterno.html
+https://jpmsantosti.github.io/MeuPrimeiroSite/Indexinterno.html
 
 ## CSS EXTERNO
-https://github.com/jpmsantosTI/MeuPrimeiroSite/blob/main/indexexterno.html
+https://jpmsantosti.github.io/MeuPrimeiroSite/indexexterno.html
 
 Repositório destinado ao aprendizado de HTML e CSS
