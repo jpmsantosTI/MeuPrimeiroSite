@@ -1,7 +1,7 @@
 # MeuPrimeiroSite
 
 ## PrimePrimeiro teste
-https://github.io/jpmsantosTI/MeuPrimeiroSite/
+https://github.com/jpmsantosTI/MeuPrimeiroSite/
 
 
 ## CSS INLINE
