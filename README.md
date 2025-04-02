@@ -1,11 +1,10 @@
 # MeuPrimeiroSite
 
-## Primeiro teste
-https://github.com/jpmsantosTI/MeuPrimeiroSite/
+## PrimePrimeiro teste
+https://g.com/jpmsantosTI/MeuPrimeiroSite/
 
 
-## CSS inline
-https://github.com/jpmsantosTI/MeuPrimeiroSite/blob/main/Index.html
+## CSS https://github.com/jpmsantosTI/MeuPrimeiroSite/Index.html
 
 ## CSS INTERNO
 https://github.com/jpmsantosTI/MeuPrimeiroSite/blob/main/Indexinterno.html
