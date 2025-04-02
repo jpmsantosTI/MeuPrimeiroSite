@@ -4,7 +4,7 @@
 https://github.io/jpmsantosTI/MeuPrimeiroSite/
 
 
-## CSS
+## CSS INLINE
 https://jpmsantosti.github.io/MeuPrimeiroSite/Index.html
 
 ## CSS INTERNO
