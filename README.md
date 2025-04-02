@@ -1,6 +1,6 @@
 # MeuPrimeiroSite
 
-## PrimePrimeiro teste
+## Primeiro teste
 https://github.com/jpmsantosTI/MeuPrimeiroSite/
 
 
